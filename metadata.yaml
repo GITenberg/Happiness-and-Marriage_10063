@@ -1,0 +1,23 @@
+_repo: Happiness-and-Marriage_10063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Towne, Elizabeth
+    alias: Towne, Elizabeth (Jones), Mrs.
+    gutenberg_agent_id: '3289'
+    url: http://www.gutenberg.org/2009/agents/3289
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+- GITenberg
+title: Happiness and Marriage
+url: http://www.gutenberg.org/ebooks/10063
